@@ -1,0 +1,1 @@
+color codes:- linear-gradient(to right bottom, #75dab4, #3ab9af, #0096a5, #007491, #0c5276)
