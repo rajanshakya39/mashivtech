@@ -1583,7 +1583,7 @@ body {
 /* css f0r team member ends here */
 
 /* css for testimonials starts here */
-.testimonials{
+.testimonials {
     background-image: url(images/bg2.png);
     background-color: var(--black);
     background-position: 50%;
@@ -1738,32 +1738,32 @@ body {
     border: 1px solid var(--green);
 }
 
-.features .cardHolder .card:hover .inner{
+.features .cardHolder .card:hover .inner {
     transform: skewY(0deg);
 }
 
-.features .cardHolder .card:hover .inner div{
+.features .cardHolder .card:hover .inner div {
     color: var(--white);
 }
 
-.features .cardHolder .card .inner img{
+.features .cardHolder .card .inner img {
     width: 8rem;
     height: 8rem;
     object-fit: cover;
 }
 
-.features .cardHolder .card .inner div{
+.features .cardHolder .card .inner div {
     color: var(--black);
-   text-transform: capitalize;
+    text-transform: capitalize;
     font-weight: bold;
 }
 
-.features .cardHolder .card .inner .number{
+.features .cardHolder .card .inner .number {
     font-size: 4rem;
     margin-bottom: -1rem;
 }
 
-.features .cardHolder .card .inner .attr{
+.features .cardHolder .card .inner .attr {
     font-size: 1.8rem;
 }
 
@@ -1781,7 +1781,7 @@ body {
     padding: 1.5em;
 }
 
-.adbanner{
+.adbanner {
     position: absolute;
     top: -30%;
     left: 7%;
@@ -1794,7 +1794,7 @@ body {
     padding: 5rem 8rem;
 }
 
-.adbanner .offer p{
+.adbanner .offer p {
     width: 100%;
     text-align: left;
     font-size: 1.8rem;
@@ -1802,32 +1802,32 @@ body {
     text-transform: capitalize;
 }
 
-.adbanner .offer .right{
+.adbanner .offer .right {
     text-align: right;
     font-size: 1.4rem;
 }
 
-.adbanner .offer span{
+.adbanner .offer span {
     color: var(--green);
 }
 
-.adbanner .offer h1{
+.adbanner .offer h1 {
     text-transform: capitalize;
     font-size: 4rem;
     color: var(--white);
 }
 
-.adbanner .contactus h1{
+.adbanner .contactus h1 {
     font-size: 4rem;
     text-transform: capitalize;
     color: var(--white);
 }
 
-.adbanner .contactus h1 span{
+.adbanner .contactus h1 span {
     color: var(--green);
 }
 
-.adbanner .contactus .btn{
+.adbanner .contactus .btn {
     position: relative;
     margin-top: 2rem;
     padding: 1em 1.4em;
@@ -1837,7 +1837,7 @@ body {
     transition: 0.3s ease-in;
 }
 
-.adbanner .contactus .btn i{
+.adbanner .contactus .btn i {
     position: absolute;
     color: var(--white);
     font-size: 1.4rem;
@@ -1847,19 +1847,19 @@ body {
     transition: 0.3s ease-in;
 }
 
-.adbanner .contactus .btn:hover{
+.adbanner .contactus .btn:hover {
     padding: 1em 3em 1em 1.4em;
     background: var(--black);
     border: 1px solid var(--green);
 }
 
-.adbanner .contactus .btn:hover i{
+.adbanner .contactus .btn:hover i {
     transform: translateX(0rem);
 
 }
 
 
-.adbanner .contactus .btn a{
+.adbanner .contactus .btn a {
     position: relative;
     font-size: 1.4rem;
     text-transform: uppercase;
@@ -1938,10 +1938,10 @@ body {
     background: #323232;
     text-align: center;
     margin-right: 2.5rem;
-    transition: .8s ;
+    transition: .8s;
 }
 
-.footer .box-container .box .share a:last-child{
+.footer .box-container .box .share a:last-child {
     margin-right: 0rem;
 }
 
